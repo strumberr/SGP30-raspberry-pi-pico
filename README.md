@@ -1,6 +1,6 @@
-# SGP30-sensor
+# SGP30-sensor - Raspberry Pi Pico
 
-This is a code snippet for the the SGP30 (eCO2 and TVOC air quality sensor). Included is the library to run it. 
+This is the full code for the the SGP30 (eCO2 and TVOC air quality sensor). The library is included to run it. 
 
 # Connections
 
