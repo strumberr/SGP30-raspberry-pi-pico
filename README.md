@@ -8,3 +8,5 @@ sdaPIN=machine.Pin(16).
 
 sclPIN=machine.Pin(17). 
 
+## SDA = Pin 16
+## SCL = Pin 17
